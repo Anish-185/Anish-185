@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I Am currently Working On<br>Building AI-based projects and automation workflows, along with strengthening my problem-solving skills through DSA practice.<br>👯 I’m looking to collaborate on<br>Open-source projects related to AI, machine learning, and backend development.<br>🤝 I’m looking for help with<br>Improving my system design skills and building scalable, real-world applications.<br>🌱 I’m currently learning<br>Machine learning, feature engineering, and advanced data structures & algorithms.<br>💬 Ask me about<br>C++, Python, DSA, beginner-friendly machine learning concepts, and AI tools.<br>⚡ Fun fact<br>I enjoy taking an idea and turning it into a working project through code
 
 
@@ -11,6 +11,10 @@ I Am currently Working On<br>Building AI-based projects and automation workflows
 ![](https://github-readme-stats.vercel.app/api?username=Anish-185&theme=tokyonight&hide_border=true&cache_seconds=1800)<br/>
 ![](https://streak-stats.demolab.com?user=Anish-185&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-185&theme=tokyonight&hide_border=true&layout=compact)
+
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Anish&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Anish-185&icon=1&color=6)](https://visitcount.itsvg.in)
 
