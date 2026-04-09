@@ -12,10 +12,8 @@ I Am currently Working On<br>Building AI-based projects and automation workflows
 ![](https://streak-stats.demolab.com?user=Anish-185&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-185&theme=tokyonight&hide_border=true&layout=compact)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anish&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Anish-185&icon=1&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
