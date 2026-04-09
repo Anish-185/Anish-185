@@ -15,7 +15,7 @@ I Am currently Working On<br>Building AI-based projects and automation workflows
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anish-185&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AnishGutti&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anish-185&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=Anish-185&icon=1&color=6)](https://visitcount.itsvg.in)
 
