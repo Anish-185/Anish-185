@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3b73,100:58A6FF&height=140&section=header&text=Anish%20G&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Builder%20of%20evidence-grounded%20systems&descAlignY=62&descSize=16" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Anish+%F0%9F%91%8B;I+build+AI+that+shows+its+evidence.;Forensics+%C2%B7+Health+%C2%B7+Compliance+%C2%B7+Hiring+AI;Tests+decide.+Models+explain.;From+research+idea+%E2%86%92+tested%2C+shipped+system" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/anish-g-858660317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -69,8 +67,6 @@ learning:   [System Design, Distributed ML pipelines, Computational Neuroscience
 ### 🏛️ [Areté](https://github.com/Anish-185/portfolio-driven-assessment): Portfolio-Driven Coding Assessment Platform
 > *A coding test built from the candidate's own portfolio, graded only by tests.* Built at **CBIT Hacktoberfest '26** with Team JL.
 
-<img src="https://raw.githubusercontent.com/Anish-185/portfolio-driven-assessment/main/docs/images/tour.gif" width="100%" alt="Tour of Areté" />
-
 Areté turns a résumé, GitHub, LeetCode and Codeforces profile into a **validated 60-minute assessment in the candidate's own
 domain and stack**: one real-codebase task and one DSA task at a Novice, Adept or Master tier.
 
@@ -85,8 +81,6 @@ domain and stack**: one real-codebase task and one DSA task at a Novice, Adept o
 
 ### 👂 [Shravan Setu](https://github.com/Anish-185/shravan-setu): Offline Hearing Screening That Follows Through
 > *Others built a hearing test. We built the system that makes sure the child actually gets treated.* Built for **SFIC 2026**.
-
-<img src="https://raw.githubusercontent.com/Anish-185/shravan-setu/main/docs/readme/hero.png" width="100%" alt="Shravan Setu app screens" />
 
 A teacher screens a class on an ordinary Android phone with wired earphones and no internet. Each child who needs care becomes a
 referral case that the school tracks through triage, batched ear-camp requests, missed visits and reschedules until the child is treated.
@@ -315,7 +309,5 @@ A genetic algorithm learns to play Flappy Bird, written up as a full research pa
 ### 🤝 Open to collaborating on Explainable AI, LLM agents, Graph ML, Healthcare AI and Backend Engineering
 
 *Fun fact: I once wrote a research paper about teaching a bird to flap.* 🐤
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1f3b73,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
