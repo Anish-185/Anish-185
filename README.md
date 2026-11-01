@@ -41,7 +41,7 @@ learning:   [System Design, Distributed ML pipelines, Computational Neuroscience
 <sub>Built [btc-intel](https://github.com/Anish-185/btc-intel) for **PS 26146 (NTRO)** and [MetrIQ](https://github.com/Anish-185/sih26) for **PS 26107 (BIS)**</sub>
 
 🎃 **CBIT Hacktoberfest '26** (Team JL)<br/>
-<sub>Built [Areté](https://github.com/Anish-185/portfolio-driven-assessment-clean), a sandboxed, test-graded assessment platform</sub>
+<sub>Built [Areté](https://github.com/Anish-185/portfolio-driven-assessment), a sandboxed, test-graded assessment platform</sub>
 
 🩺 **SFIC 2026**: shipped an Android APK<br/>
 <sub>[Shravan Setu](https://github.com/Anish-185/shravan-setu), an offline hearing-screening and referral system for schools</sub>
@@ -66,10 +66,10 @@ learning:   [System Design, Distributed ML pipelines, Computational Neuroscience
 
 ## 🏆 Flagship Projects
 
-### 🏛️ [Areté](https://github.com/Anish-185/portfolio-driven-assessment-clean): Portfolio-Driven Coding Assessment Platform
+### 🏛️ [Areté](https://github.com/Anish-185/portfolio-driven-assessment): Portfolio-Driven Coding Assessment Platform
 > *A coding test built from the candidate's own portfolio, graded only by tests.* Built at **CBIT Hacktoberfest '26** with Team JL.
 
-<img src="https://raw.githubusercontent.com/Anish-185/portfolio-driven-assessment-clean/main/docs/images/tour.gif" width="100%" alt="Tour of Areté" />
+<img src="https://raw.githubusercontent.com/Anish-185/portfolio-driven-assessment/main/docs/images/tour.gif" width="100%" alt="Tour of Areté" />
 
 Areté turns a résumé, GitHub, LeetCode and Codeforces profile into a **validated 60-minute assessment in the candidate's own
 domain and stack**: one real-codebase task and one DSA task at a Novice, Adept or Master tier.
