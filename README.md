@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Anish+%F0%9F%91%8B;I+build+AI+that+shows+its+evidence.;Forensics+%C2%B7+Health+%C2%B7+Compliance+%C2%B7+Hiring+AI;Tests+decide.+Models+explain.;From+research+idea+%E2%86%92+tested%2C+shipped+system" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Anish+%F0%9F%91%8B;I+build+AI+that+shows+its+evidence.;Forensics+%C2%B7+Health+%C2%B7+Compliance+%C2%B7+Hiring+%C2%B7+Space;Tests+decide.+Models+explain.;From+research+idea+%E2%86%92+tested%2C+shipped+system" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/anish-g-858660317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Anish_1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -35,6 +35,9 @@ learning:   [System Design, Distributed ML pipelines, Computational Neuroscience
 <tr>
 <td width="50%" valign="top">
 
+🚀 **NASA Space Apps 2026**<br/>
+<sub>Built [Gnomon](https://github.com/Anish-185/lunar-landing-site-navigator), a lunar south-pole landing-site navigator validated against JPL Horizons and NASA's maps</sub>
+
 🇮🇳 **Smart India Hackathon 2026: two problem statements**<br/>
 <sub>Built [btc-intel](https://github.com/Anish-185/btc-intel) for **PS 26146 (NTRO)** and [MetrIQ](https://github.com/Anish-185/sih26) for **PS 26107 (BIS)**</sub>
 
@@ -63,6 +66,26 @@ learning:   [System Design, Distributed ML pipelines, Computational Neuroscience
 ---
 
 ## 🏆 Flagship Projects
+
+### 🌑 [Gnomon](https://github.com/Anish-185/lunar-landing-site-navigator): Lunar Landing Site Navigator · [Story site ↗](https://anish-185.github.io/lunar-landing-site-navigator/) · [Live console ↗](https://gnomon-moon.streamlit.app)
+> *At the lunar south pole, a ridge 100 km away can switch your lander off. Gnomon tells you which one.* Built for **NASA Space Apps 2026**.
+
+For any polar site and landing time, Gnomon shows when a lander will have sunlight and a line of sight to Earth, **names the ridge
+to blame** when it doesn't, estimates the odds of a good landing across the whole landing ellipse, and **re-plans when the launch slips**.
+
+- 🏔️ **Blame the ridge:** terrain horizons at 720 azimuths from NASA LOLA DEMs (20 m near field + 80 m far field), with every blocking point named from the USGS Gazetteer, e.g. *"Sun blocked by Mons Malapert, 111 km away at az 94°"*
+- 🎯 **Landing-zone odds:** 200 simulated landings per site, each with its own horizon, slope and distance to permanent shadow
+- 🔁 **Slip Replanner:** launch date + cruise + slip → every site × landing day re-ranked, with Plan B cards and "what changed"
+- 🛰️ **Athena replay:** IM-2's 2025 landing step by step, including the 20 m crater that orbital terrain data cannot see
+- 📜 **Hindcast:** the first sunset after Chandrayaan-3's landing falls on 4 Sep 2023, the day ISRO put Vikram to sleep
+
+| 0.004″ | 13 / 14 | 200 | 0 |
+|:---:|:---:|:---:|:---:|
+| worst Sun/Earth error vs JPL Horizons (130 checks) | polar sites inside NASA's own sunlight range | simulated landings per site | network calls at runtime |
+
+`Python` `SPICE (DE440)` `GDAL` `NASA LOLA` `NumPy` `Streamlit` `Scroll-driven story site` `pytest`
+
+---
 
 ### 🏛️ [Areté](https://github.com/Anish-185/portfolio-driven-assessment): Portfolio-Driven Coding Assessment Platform
 > *A coding test built from the candidate's own portfolio, graded only by tests.* Built at **CBIT Hacktoberfest '26** with Team JL.
@@ -245,6 +268,8 @@ A genetic algorithm learns to play Flappy Bird, written up as a full research pa
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logo=gdal&logoColor=white" />
+<img src="https://img.shields.io/badge/SPICE-0B3D91?style=flat-square&logo=nasa&logoColor=white" />
 
 **Backend**<br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -262,6 +287,7 @@ A genetic algorithm learns to play Flappy Bird, written up as a full research pa
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 **DevOps & Tools**<br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
